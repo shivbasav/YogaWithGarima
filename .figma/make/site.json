@@ -1,0 +1,10 @@
+{
+  "description": "Connect with a vibrant yoga community through classes, workshops, and resources designed for all levels, promoting wellness and mindfulness.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}

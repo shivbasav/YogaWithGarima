@@ -1,0 +1,11 @@
+/* Hide scrollbar on mobile devices */
+@media (max-width: 768px) {
+  body::-webkit-scrollbar {
+    display: none;
+  }
+
+  body {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+}
